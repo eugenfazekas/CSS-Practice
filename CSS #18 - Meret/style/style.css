@@ -1,0 +1,15 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+div#box{
+	max-height:250px;
+	max-width:220px;
+	width:250px;
+	height:200px;
+	background-color:#888888;
+	
+	padding-left:40px;
+	padding-top:20px;
+}

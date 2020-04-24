@@ -1,0 +1,13 @@
+div#box{
+	width:250px;
+	height:250px;
+	background-color:#888888;
+	
+	border: solid 3px red;
+	
+	outline-width:length;
+	outline-color: green;
+	outline-style: dotted;
+	
+	margin:15px;
+}

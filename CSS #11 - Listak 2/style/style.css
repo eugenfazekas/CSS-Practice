@@ -1,0 +1,11 @@
+ul.a{
+	color:red;
+	list-style-image: url('../xy1.jpg');
+	list-style-position:inside;
+}
+ul.a li{
+	border: 1px solid #000000;
+}
+ol.b {
+list-style-type:lower-alpha;
+}

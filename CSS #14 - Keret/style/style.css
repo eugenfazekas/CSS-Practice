@@ -1,0 +1,10 @@
+div#box{
+	width:250px;
+	height:250px;
+	background-color:#888888;
+	
+	border-style: groove;
+	border-width: 10px;
+	border-color: red;
+	
+}

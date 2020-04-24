@@ -1,0 +1,9 @@
+img#pic {
+	float:left;
+}
+p#par {
+float:left
+}
+div#clear{
+	clear:both;
+}

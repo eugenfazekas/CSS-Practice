@@ -1,0 +1,23 @@
+a:link{
+}
+a:visited{
+}
+a:active{
+}
+a:hover{
+}
+img#pic:hover{
+	border: 5px solid red;
+}
+/*first-child last-child*/
+ul#list li:nth-child(4){ 
+	color:red;
+}
+
+p:first-line{
+	color:red;
+	}
+
+p:focus {
+	
+}
